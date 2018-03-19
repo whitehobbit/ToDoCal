@@ -1,0 +1,47 @@
+PODS:
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - ReactorKit (1.1.0):
+    - RxSwift (>= 4.0.0)
+  - Realm (3.2.0):
+    - Realm/Headers (= 3.2.0)
+  - Realm/Headers (3.2.0)
+  - RealmSwift (3.2.0):
+    - Realm (= 3.2.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxRealm (0.7.5):
+    - RealmSwift (~> 3.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - RxTest (4.1.2):
+    - RxSwift (~> 4.0)
+  - XCGLogger (6.0.2):
+    - XCGLogger/Core (= 6.0.2)
+  - XCGLogger/Core (6.0.2):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - ReactorKit (~> 1.1)
+  - RealmSwift (~> 3.2)
+  - RxCocoa (~> 4.1.2)
+  - RxRealm (~> 0.7.5)
+  - RxSwift (~> 4.1.2)
+  - RxTest (~> 4.1)
+  - XCGLogger (~> 6.0.2)
+
+SPEC CHECKSUMS:
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  ReactorKit: 26470a9eff5094fae909a30af0be7cd0cf8a182d
+  Realm: ae552b9b9eca3a12374a589fa842f220e286a80a
+  RealmSwift: 05727129547dcab3fe828bd87bc30be903736b9c
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxRealm: a6c6c0a07cb61f34209969ca6657734edfdfff30
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  RxTest: e634f15fd2c2cd0e0120132ef7a4f7be69ad0393
+  XCGLogger: c9601cae9a8912de34a58666ba931ed3d624dd31
+
+PODFILE CHECKSUM: f7cfee10fdba2bd59e1168b8ece8e4ad4c5095b1
+
+COCOAPODS: 1.4.0
